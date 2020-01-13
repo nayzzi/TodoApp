@@ -1,0 +1,5 @@
+export const PREFIX = "@auth/";
+
+export const FILTER_TODO_SUCCESS = 'FILTER_TODO_SUCCESS';
+
+export const GET_ALL_COMPLETEDCOUNT_SUCCESS = 'DELETE_TODOSTATUS_SUCCESS';
